@@ -30,11 +30,9 @@ I write down what I learn at **[ilham.dev](https://ilham.dev)**.
 ## ✍️ Latest notes
 
 <!-- BLOG-POST-LIST:START -->
-- [How I add a watermark without ruining the image](https://ilham.dev/posts/how-to-add-a-watermark-without-ruining-the-image/)
-- [How I add or subtract dates without counting calendar squares](https://ilham.dev/posts/how-to-add-or-subtract-dates-without-calendar-counting/)
-- [How I break a URL into parts before debugging it](https://ilham.dev/posts/how-to-break-a-url-into-parts/)
-- [How I build a Basic Auth header for testing](https://ilham.dev/posts/how-to-build-a-basic-auth-header-for-testing/)
-- [How I build a basic nginx config without starting from an empty file](https://ilham.dev/posts/how-to-build-a-basic-nginx-config/)
+- [Why the comments live on GitHub](https://ilham.dev/posts/why-the-comments-live-on-github/)
+- [Running real services on a small VPS](https://ilham.dev/posts/running-services-on-a-small-vps/)
+- [Why this site is a static site](https://ilham.dev/posts/why-this-site-is-static/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
