@@ -30,6 +30,7 @@ I write down what I learn at **[ilham.dev](https://ilham.dev)**.
 ## ✍️ Latest notes
 
 <!-- BLOG-POST-LIST:START -->
+- [Long-running jobs should not depend on my SSH connection](https://ilham.dev/posts/long-running-jobs-should-not-depend-on-my-ssh-connection/)
 - [When /home Is Full: Why LVM Makes Storage Expansion Easier](https://ilham.dev/posts/when-df-h-is-full-why-i-usually-extend-storage-with-lvm/)
 - [Why the comments live on GitHub](https://ilham.dev/posts/why-the-comments-live-on-github/)
 - [Running real services on a small VPS](https://ilham.dev/posts/running-services-on-a-small-vps/)
